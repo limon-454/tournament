@@ -1,6 +1,7 @@
 {
-  "name": "free-fire-server",
+  "name": "free-fire-tournament-api",
   "version": "1.0.0",
+  "description": "Tournament Backend with MongoDB",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
